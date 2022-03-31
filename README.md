@@ -22,33 +22,46 @@
 <a href="https://learn.365datascience.com/certificates/DD-361B602AA4/">Data Analyst Career Track</a>
 </p>
 
-💻Tools I use for my work : 
+💻 *Programming languages*: 
 
 <p align="left"> 
- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="150" height="30"/> 
- <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="150" height="30"/>
- <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="150" height="30"/>
- <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly" width="150" height="30"/>
- <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" width="150" height="30"/>
+ <img src="https://img.shields.io/badge/Python-blue" alt="python" width="70" height="30"/> 
+ <img src="https://img.shields.io/badge/Pandas-purple" alt="pandas" width="70" height="30"/>
+ <img src="https://img.shields.io/badge/NumPy-darkgreen" alt="numpy" width="70" height="30"/>
+ <img src="https://img.shields.io/badge/Matplotlib-lightblue" alt="matplotlib" width="80" height="30"/>
+ <img src="https://img.shields.io/badge/Seaborn-lightblue" alt="seaborn" width="70" height="30"/>
+ <img src="https://img.shields.io/badge/Plotly-darkblue" alt="plotly" width="70" height="30"/>
+ <img src="https://img.shields.io/badge/Scikit%20learn-orange" alt="sklearn" width="90" height="30"/>
  </p>
  
+💻 *Databases*:
  <p align="left">
- <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="numpy" width="150" height="30"/>
- <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="plotly" width="150" height="30"/>
+ <img src="https://img.shields.io/badge/MySQL-lightblue" alt="mysql" width="70" height="30"/>
+ <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-red" alt="MS sql server" width="150" height="30"/>
  </p>
  
+📊 *Data Visulization tools*:
  <p align="left">
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="python" width="150" height="30"/> 
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="pandas" width="150" height="30"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="numpy" width="150" height="30"/>
+ <img src="https://img.shields.io/badge/Tableau-lightblue" alt="excel" width="70" height="30"/>
+ </p>
+ 
+ *Other tools*:
+ <p align="left">
+ <img src="https://img.shields.io/badge/Microsoft%20Excel-darkgreen" alt="excel" width="120" height="30"/>
+ <img src="https://img.shields.io/badge/Microsoft%20Word-lightblue" alt="word" width="120" height="30"/>
+ <img src="https://img.shields.io/badge/Microsoft%20Power%20Point-red" alt="pandas" width="170" height="30"/>
+ 
+</p>
+ 
+
+💻 *IDE's*:
+ <p align="left">
+<img src="https://img.shields.io/badge/PyCharm-darkgreen" alt="python" width="80" height="30"/> 
+<img src="https://img.shields.io/badge/Jupyter-orange" alt="pandas" width="70" height="30"/>
+<img src="https://img.shields.io/badge/Google%20colab-orange" alt="numpy" width="130" height="30"/>
 </p>
 
-<p align="left">
- <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="pandas" width="150" height="30"/>
- <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="pandas" width="150" height="30"/>
- <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="pandas" width="150" height="30"/>
- 
-</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=20harsha&show_icons=true&locale=en&layout=compact" alt="20harsha" /></p>
 
