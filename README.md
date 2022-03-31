@@ -1,10 +1,10 @@
 ![Aspiring Data Analyst (2)](https://user-images.githubusercontent.com/87359806/160982123-717bc7ae-e729-455a-b043-04ee05c05b1d.png)
 
 <h1 align="center">Hi 👋, I'm Harsha Kumavat</h1>
-<h3 align="center">A passionate data enthusiast love to work with data. Love being a data detective to explore raw data to get helpful insights.</h3>
+<h3 align="center">A passionate data enthusiast love to work with data 📊. Love being a data detective to explore raw data to get helpful insights 📈 📊</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20harsha&label=Profile%20views&color=0e75b6&style=flat" alt="20harsha" /> </p>
 
-- 🌱 I’m currently pursuing **MSc in Information Technology**
+- 👩‍🎓 I’m currently pursuing **MSc in Information Technology**
 
 - 📫 How to reach me **harshakumawat2000@gmail.com**
 
