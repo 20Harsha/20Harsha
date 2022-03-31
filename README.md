@@ -22,7 +22,7 @@
 <a href="https://learn.365datascience.com/certificates/DD-361B602AA4/">Data Analyst Career Track</a>
 </p>
 
-💻 *Programming languages*: 
+💻 *Programming languages & libraries*: 
 
 <p align="left"> 
  <img src="https://img.shields.io/badge/Python-blue" alt="python" width="70" height="30"/> 
