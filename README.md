@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Harsha Kumavat</h1>
 <h3 align="center">A passionate data enthusiast love to work with data 📊. Love being a data detective to explore raw data to get helpful insights 📈 📊</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=20harsha&label=Profile%20views&color=0e75b6&style=flat" alt="20harsha" /> </p>
+
 
 - 👩‍🎓 I’m currently pursuing **MSc in Information Technology**
 
@@ -63,5 +63,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=20harsha&show_icons=true&locale=en&layout=compact" alt="20harsha" /></p>
+
 
