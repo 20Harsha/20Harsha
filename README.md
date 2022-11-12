@@ -7,7 +7,7 @@
 
 ● 👩‍🎓 I hold a bachelor's degree in **Computer Science** and a master's degree in **Information Technology**
 
-● 📫 How to reach me **harshakumawat2000@gmail.com** 
+● 📫 How to reach me **harshakumavat9@gmail.com** 
 <br />
 <p align="left">
 <a href="https://linkedin.com/in/harshakumavat2000" target="blank"><img src="https://img.shields.io/badge/LinkedIn-lightblue" alt="LinkedIn" width="80" height="30"/> </a>&nbsp
