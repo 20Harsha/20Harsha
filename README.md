@@ -1,4 +1,4 @@
-![Aspiring Data Analyst (2)](https://user-images.githubusercontent.com/87359806/160982123-717bc7ae-e729-455a-b043-04ee05c05b1d.png)
+![Aspiring Data Analyst (1)](https://user-images.githubusercontent.com/87359806/201467211-bf344b1b-2d8c-4df4-992f-47634274a130.png)
 
 <h1 align="center">Hi 👋, I'm Harsha Kumavat</h1>
 <h3 align="center">A passionate data enthusiast love to work with data 📊. Love being a data detective to explore raw data to get helpful insights 📈 📊</h3><br />
