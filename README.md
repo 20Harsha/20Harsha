@@ -27,7 +27,9 @@
 <br />
 ● <a href="https://learn.365datascience.com/certificates/DD-361B602AA4/">Data Analyst Career Track</a>
 <br />
-● <a href="https://github.com/20Harsha/Power-BI-Virtual-Case-Experience-with-PwC/blob/main/Completion_certificate.pdf">Power BI Virtual Case Experience with PwC</a>
+● <a href="https://drive.google.com/file/d/1tAeV3ztmr2U-2o9nFYhb5PFKOU-tBeu4/view">Power BI Fundamentals Track</a>
+<br />
+● <a href="https://learn.365datascience.com/certificates/CC-5753BDFE2B/">SQL</a>
 </p>
 
 💻 *Programming languages & libraries*: 
