@@ -16,7 +16,8 @@
 <a href="https://www.hackerrank.com/harshakumawat201" target="blank"><img src="https://img.shields.io/badge/HackerRank-black" alt="HackerRank" width="125" height="30"/></a>&nbsp
 <a href="https://www.credly.com/users/harsha-kumavat/badges" target="blank"><img src="https://img.shields.io/badge/Credly-orange" alt="Credly" width="70" height="30"/></a>&nbsp
 <a href="https://public.tableau.com/app/profile/harsha3818" target="blank"><img src="https://img.shields.io/badge/Tableau%20Public-lightblue" alt="Tableau" width="140" height="30"/></a>&nbsp
-<a href="https://www.novypro.com/profile_projects/harsha-kumavat4209" target="blank"><img src="https://img.shields.io/badge/Power%20BI-yellow" alt="Power BI" width="90" height="30"/></a>
+<a href="https://www.novypro.com/profile_projects/harsha-kumavat4209" target="blank"><img src="https://img.shields.io/badge/Power%20BI-yellow" alt="Power BI" width="90" height="30"/></a>&nbsp
+<a href="https://harshakumavat.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium(Blog)-black" alt="HackerRank" width="125" height="30"/></a>
 
 </p>
 <h2 align="left"> 🥇 Certifications:</h2> Click below to view credentials
