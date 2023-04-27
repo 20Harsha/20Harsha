@@ -1,7 +1,7 @@
 ![Aspiring Data Analyst (1)](https://user-images.githubusercontent.com/87359806/201467211-bf344b1b-2d8c-4df4-992f-47634274a130.png)
 
 <h1 align="center">Hi 👋, I'm Harsha Kumavat :blush: </h1> 
-<h3 align="center">I am a Data Analyst. I love to work with data 📊. Love being a data detective to explore raw data to get helpful insights 📈 📊</h3><br />
+<h3 align="center">I am a Data Analyst 👩‍💻 📈 . I love to work with data 📊. Love being a data detective to explore raw data to get helpful insights 📈 📊</h3><br />
 
 <a href="https://20harsha.github.io/Harsha20.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio%20Website%20(Click%20here)-light%20red" alt="Website" width="260" height="30"/></a>
 
