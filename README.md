@@ -1,7 +1,7 @@
-![Aspiring Data Analyst (1)](https://user-images.githubusercontent.com/87359806/201467211-bf344b1b-2d8c-4df4-992f-47634274a130.png)
+![2](https://github.com/20Harsha/20Harsha/assets/87359806/8896f40e-06f5-49da-9d15-49da86325d89)
 
 <h1 align="center">Hi 👋, I'm Harsha Kumavat :blush: </h1> 
-<h3 align="center">I am a Data Analyst 👩‍💻 📈 . I love to work with data 📊. Love being a data detective to explore raw data to get helpful insights 📈 📊</h3><br />
+<h3 align="center">I am a Data Engineer 👩‍💻 📈. I love building data pipelines and working with data 📊. Passionate about transforming raw data into valuable insights 📈 📊</h3><br />
 
 <a href="https://20harsha.github.io/Harsha20.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio%20Website%20(Click%20here)-light%20red" alt="Website" width="260" height="30"/></a>
 
@@ -45,16 +45,28 @@
  <img src="https://img.shields.io/badge/Scikit%20learn-orange" alt="sklearn" width="100" height="30"/>
  </p>
  
-💻 *Databases*:
+💻 *Databases & Data Warehousing*:
  <p align="left">
  <img src="https://img.shields.io/badge/MySQL-lightblue" alt="mysql" width="70" height="30"/>
- <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-red" alt="MS sql server" width="160" height="30"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-lightblue" alt="PostgreSQL" width="160" height="30"/>
+ <img src="https://img.shields.io/badge/AWS%20Redshift-darkblue" alt="AWS Redshift" width="120" height="30"/>
+ </p>
+
+ 💻 *Data Transformation and Modeling*:
+ <p align="left">
+ <img src="https://img.shields.io/badge/dbt%20(Data%20Build%20Tool)-darkorange" alt="dbt (Data Build Tool)" width="160" height="30"/>
+ </p>
+
+ 💻 *Data Orchestration Tool*:
+ <p align="left">
+ <img src="https://img.shields.io/badge/Apache%20Airflow-darkgreen" alt="Apache Airflow" width="160" height="30"/>
  </p>
  
 📊 *Data Visualization tools*: 
  <p align="left">
- <img src="https://img.shields.io/badge/Tableau%20Public-lightblue" alt="Tableau" width="120" height="30"/>
+ <img src="https://img.shields.io/badge/Amazon%20QuickSight-darkblue" alt="Amazon QuickSight" width="120" height="30"/>
  <img src="https://img.shields.io/badge/Power%20BI-yellow" alt="Power BI" width="80" height="30"/>
+ <img src="https://img.shields.io/badge/Tableau%20Public-lightblue" alt="Tableau" width="120" height="30"/>
  </p>
  
  *Other tools*:
@@ -68,6 +80,7 @@
 
 💻 *IDE's*:
  <p align="left">
+<img src="https://img.shields.io/badge/VS%20Code-blue" alt="VS Code" width="80" height="30"/> 
 <img src="https://img.shields.io/badge/PyCharm-darkgreen" alt="PyCharm" width="80" height="30"/> 
 <img src="https://img.shields.io/badge/Jupyter-orange" alt="Jupyter" width="70" height="30"/>
 <img src="https://img.shields.io/badge/Google%20colab-orange" alt="Google Colab" width="130" height="30"/>
