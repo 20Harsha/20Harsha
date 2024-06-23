@@ -48,13 +48,13 @@
 💻 *Databases & Data Warehousing*:
  <p align="left">
  <img src="https://img.shields.io/badge/MySQL-lightblue" alt="mysql" width="70" height="30"/>
- <img src="https://img.shields.io/badge/PostgreSQL-lightblue" alt="PostgreSQL" width="160" height="30"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-lightblue" alt="PostgreSQL" width="130" height="30"/>
  <img src="https://img.shields.io/badge/AWS%20Redshift-darkblue" alt="AWS Redshift" width="120" height="30"/>
  </p>
 
  💻 *Data Transformation and Modeling*:
  <p align="left">
- <img src="https://img.shields.io/badge/dbt%20(Data%20Build%20Tool)-darkorange" alt="dbt (Data Build Tool)" width="160" height="30"/>
+ <img src="https://img.shields.io/badge/dbt%20(Data%20Build%20Tool)-orange" alt="dbt (Data Build Tool)" width="160" height="30"/>
  </p>
 
  💻 *Data Orchestration Tool*:
@@ -64,7 +64,7 @@
  
 📊 *Data Visualization tools*: 
  <p align="left">
- <img src="https://img.shields.io/badge/Amazon%20QuickSight-darkblue" alt="Amazon QuickSight" width="120" height="30"/>
+ <img src="https://img.shields.io/badge/Amazon%20QuickSight-darkblue" alt="Amazon QuickSight" width="140" height="30"/>
  <img src="https://img.shields.io/badge/Power%20BI-yellow" alt="Power BI" width="80" height="30"/>
  <img src="https://img.shields.io/badge/Tableau%20Public-lightblue" alt="Tableau" width="120" height="30"/>
  </p>
