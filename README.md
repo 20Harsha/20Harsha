@@ -49,7 +49,7 @@
  <p align="left">
  <img src="https://img.shields.io/badge/MySQL-lightblue" alt="mysql" width="70" height="30"/>
  <img src="https://img.shields.io/badge/PostgreSQL-lightblue" alt="PostgreSQL" width="100" height="30"/>
- <img src="https://img.shields.io/badge/AWS%20Redshift-darkblue" alt="Amazon Redshift" width="120" height="30"/>
+ <img src="https://img.shields.io/badge/Amazon%20Redshift-darkblue" alt="Amazon Redshift" width="120" height="30"/>
  </p>
 
  💻 *Data Transformation and Modeling*:
