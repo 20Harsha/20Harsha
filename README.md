@@ -1,54 +1,67 @@
 ![2](https://github.com/20Harsha/20Harsha/assets/87359806/8896f40e-06f5-49da-9d15-49da86325d89)
 
-<h1 align="center">Hi 👋, I'm Harsha Kumavat :blush: </h1> 
-<h3 align="center">I am a Data Engineer 👩‍💻 📈. I love building data pipelines and working with data 📊. Passionate about transforming raw data into valuable insights 📈 📊</h3><br />
+<h1 align="center">Hi 👋, I'm Harsha Kumavat</h1> 
+<h3 align="center">
+Data Engineer 👩‍💻 | ELT Pipelines • Data Modeling • Modern Data Stack  
 
-● 👩‍🎓 I hold a bachelor's degree in **Computer Science** and a master's degree in **Information Technology**
+ Building scalable, production-grade data systems that transform raw data into reliable, analytics-ready insights
+</h3><br />
 
-● 📫 How to reach me **harshakumavat9@gmail.com** 
+● 💼 Data Engineer with ~3 years of experience working across the analytics and transformation layer of the data stack  
+
+● 🏗️ Experienced in designing dimensional models, building dbt transformations, and orchestrating pipelines using Airflow  
+
+● 👩‍🎓 Bachelor's in <b>Computer Science</b> | Master's in <b>Information Technology</b>  
+
+● 📫 Reach me at <b>harshakumavat9@gmail.com</b>  
 <br />
 
-<h2>Click to View: </h2>
+<h2>Social Profiles:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/harshakumavat2000" target="blank"><img src="https://img.shields.io/badge/LinkedIn-lightblue" alt="LinkedIn" width="90" height="30"/> </a>&nbsp
-<a href="https://www.hackerrank.com/harshakumawat201" target="blank"><img src="https://img.shields.io/badge/HackerRank-black" alt="HackerRank" width="125" height="30"/></a>&nbsp
-<a href="https://www.credly.com/users/harsha-kumavat/badges" target="blank"><img src="https://img.shields.io/badge/Credly-orange" alt="Credly" width="70" height="30"/></a>&nbsp
-<a href="https://public.tableau.com/app/profile/harsha3818" target="blank"><img src="https://img.shields.io/badge/Tableau%20Public-lightblue" alt="Tableau" width="140" height="30"/></a>&nbsp
-<a href="https://www.novypro.com/profile_projects/harsha-kumavat4209" target="blank"><img src="https://img.shields.io/badge/Power%20BI-yellow" alt="Power BI" width="90" height="30"/></a>&nbsp
-<a href="https://harshakumavat.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium(Blog)-black" alt="HackerRank" width="125" height="30"/></a>
+<a href="https://linkedin.com/in/harshakumavat2000" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-lightblue" alt="LinkedIn" width="90" height="30"/> 
+</a>&nbsp
+<a href="https://harshakumavat.medium.com/" target="blank">
+<img src="https://img.shields.io/badge/Medium(Blog)-black" alt="Medium" width="130" height="30"/>
+</a>&nbsp
+<a href="https://www.youtube.com/@harsha_kumavat/shorts" target="blank">
+<img src="https://img.shields.io/badge/Youtube-red" alt="Youtube" width="100" height="30"/>
+</a>
+</p>
 
+<br/>
 
-💻 *Programming languages*: 
-
+💻 <b>Core Languages:</b>  
 <p align="left"> 
- <img src="https://img.shields.io/badge/Python-blue" alt="python" width="70" height="30"/> 
- </p>
+ <img src="https://img.shields.io/badge/SQL-darkblue" alt="sql" width="50" height="30"/> 
+ <img src="https://img.shields.io/badge/Python-blue" alt="python" width="90" height="30"/> 
+</p>
  
-💻 *Databases & Data Warehousing*:
- <p align="left">
- <img src="https://img.shields.io/badge/MySQL-lightblue" alt="mysql" width="70" height="30"/>
- <img src="https://img.shields.io/badge/PostgreSQL-lightblue" alt="PostgreSQL" width="100" height="30"/>
- <img src="https://img.shields.io/badge/Amazon%20Redshift-darkblue" alt="Amazon Redshift" width="130" height="30"/>
- <img src="https://img.shields.io/badge/Snowflake-lightblue" alt="Snowflake" width="100" height="30"/>
- </p>
+💾 <b>Data Warehousing:</b>  
+<p align="left">
+ <img src="https://img.shields.io/badge/PostgreSQL-lightblue" alt="PostgreSQL" width="110" height="30"/>
+ <img src="https://img.shields.io/badge/Amazon%20Redshift-darkblue" alt="Amazon Redshift" width="150" height="30"/>
+ <img src="https://img.shields.io/badge/Snowflake-lightblue" alt="Snowflake" width="110" height="30"/>
+</p>
 
- 💻 *Data Transformation and Modeling*:
- <p align="left">
- <img src="https://img.shields.io/badge/dbt%20(Data%20Build%20Tool)-orange" alt="dbt (Data Build Tool)" width="160" height="30"/>
- </p>
+🔄 <b>Data Transformation & Modeling:</b>  
+<p align="left">
+ <img src="https://img.shields.io/badge/dbt%20(Data%20Build%20Tool)-orange" alt="dbt" width="180" height="30"/>
+ <img src="https://img.shields.io/badge/Dimensional%20Modeling-lightgrey" alt="Dimensional Modeling" width="180" height="30"/>
+</p>
 
- 💻 *Data Orchestration Tool*:
- <p align="left">
- <img src="https://img.shields.io/badge/Apache%20Airflow-darkgreen" alt="Apache Airflow" width="130" height="30"/>
- </p>
+⚙️ <b>Orchestration:</b>  
+<p align="left">
+ <img src="https://img.shields.io/badge/Apache%20Airflow-darkgreen" alt="Apache Airflow" width="150" height="30"/>
+</p>
  
-📊 *Data Visualization tools*: 
- <p align="left">
- <img src="https://img.shields.io/badge/Amazon%20QuickSight-darkblue" alt="Amazon QuickSight" width="150" height="30"/>
- <img src="https://img.shields.io/badge/Power%20BI-yellow" alt="Power BI" width="80" height="30"/>
- <img src="https://img.shields.io/badge/Tableau%20Public-lightblue" alt="Tableau" width="120" height="30"/>
- </p>
+☁️ <b>Cloud:</b>  
+<p align="left">
+ <img src="https://img.shields.io/badge/AWS-orange" alt="AWS" width="50" height="30"/>
+</p>
 
-
-
-
+📊 <b>BI & Analytics:</b>  
+<p align="left">
+ <img src="https://img.shields.io/badge/Power%20BI-yellow" alt="Power BI" width="100" height="30"/>
+ <img src="https://img.shields.io/badge/Amazon%20QuickSight-darkblue" alt="Amazon QuickSight" width="170" height="30"/>
+</p>
