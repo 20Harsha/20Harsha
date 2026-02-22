@@ -39,7 +39,6 @@ Data Engineer 👩‍💻 | ELT Pipelines • Data Modeling • Modern Data Stac
  
 💾 <b>Data Warehousing:</b>  
 <p align="left">
- <img src="https://img.shields.io/badge/PostgreSQL-lightblue" alt="PostgreSQL" width="110" height="30"/>
  <img src="https://img.shields.io/badge/Amazon%20Redshift-darkblue" alt="Amazon Redshift" width="150" height="30"/>
  <img src="https://img.shields.io/badge/Snowflake-lightblue" alt="Snowflake" width="110" height="30"/>
 </p>
