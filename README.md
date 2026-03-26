@@ -7,7 +7,7 @@ Data Engineer 👩‍💻 | ELT Pipelines • Data Modeling • Modern Data Stac
  Building scalable, production-grade data systems that transform raw data into reliable, analytics-ready insights
 </h3><br />
 
-● 💼 Data Engineer with ~3 years of experience working across the analytics and transformation layer of the data stack  
+● 💼 Data Engineer with 3+ years of experience working across the analytics and transformation layer of the data stack  
 
 ● 🏗️ Experienced in designing dimensional models, building dbt transformations, and orchestrating pipelines using Airflow  
 
