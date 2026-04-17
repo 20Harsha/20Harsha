@@ -33,19 +33,19 @@ Data Engineer 👩‍💻 | ELT Pipelines • Data Modeling • Modern Data Stac
 
 💻 <b>Core Languages:</b>  
 <p align="left"> 
- <img src="https://img.shields.io/badge/SQL-darkblue" alt="sql" width="50" height="30"/> 
+ <img src="https://img.shields.io/badge/SQL-darkblue" alt="sql" width="50" height="30"/> &nbsp
  <img src="https://img.shields.io/badge/Python-blue" alt="python" width="90" height="30"/> 
 </p>
  
 💾 <b>Data Warehousing:</b>  
 <p align="left">
- <img src="https://img.shields.io/badge/Amazon%20Redshift-darkblue" alt="Amazon Redshift" width="150" height="30"/>
+ <img src="https://img.shields.io/badge/Amazon%20Redshift-darkblue" alt="Amazon Redshift" width="150" height="30"/>&nbsp
  <img src="https://img.shields.io/badge/Snowflake-lightblue" alt="Snowflake" width="110" height="30"/>
 </p>
 
 🔄 <b>Data Transformation & Modeling:</b>  
 <p align="left">
- <img src="https://img.shields.io/badge/dbt%20(Data%20Build%20Tool)-orange" alt="dbt" width="180" height="30"/>
+ <img src="https://img.shields.io/badge/dbt%20(Data%20Build%20Tool)-orange" alt="dbt" width="180" height="30"/>&nbsp
  <img src="https://img.shields.io/badge/Dimensional%20Modeling-lightgrey" alt="Dimensional Modeling" width="180" height="30"/>
 </p>
 
@@ -61,6 +61,6 @@ Data Engineer 👩‍💻 | ELT Pipelines • Data Modeling • Modern Data Stac
 
 📊 <b>BI & Analytics:</b>  
 <p align="left">
- <img src="https://img.shields.io/badge/Power%20BI-yellow" alt="Power BI" width="100" height="30"/>
+ <img src="https://img.shields.io/badge/Power%20BI-yellow" alt="Power BI" width="100" height="30"/>&nbsp
  <img src="https://img.shields.io/badge/Amazon%20QuickSight-darkblue" alt="Amazon QuickSight" width="170" height="30"/>
 </p>
