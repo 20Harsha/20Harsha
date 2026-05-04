@@ -7,9 +7,9 @@ Data Engineer 👩‍💻 | ELT Pipelines • Data Modeling • Modern Data Stac
  Building scalable, production-grade data systems that transform raw data into reliable, analytics-ready insights
 </h3><br />
 
-● 💼 Data Engineer with 3+ years of experience working across the analytics and transformation layer of the data stack  
+● 💼 Data Engineer with 3+ years building production-grade ELT pipelines, dimensional models, and BI dashboards across the modern data stack  
 
-● 🏗️ Experienced in designing dimensional models, building dbt transformations, and orchestrating pipelines using Airflow  
+● 🏗️ Specializing in dbt Core, Amazon Redshift, Snowflake, Airflow, and Python — with hands-on experience in data governance and analytics engineering  
 
 ● 👩‍🎓 Bachelor's in <b>Computer Science</b> | Master's in <b>Information Technology</b>  
 
@@ -23,10 +23,6 @@ Data Engineer 👩‍💻 | ELT Pipelines • Data Modeling • Modern Data Stac
 </a>&nbsp
 <a href="https://harshakumavat.medium.com/" target="blank">
 <img src="https://img.shields.io/badge/Medium(Blog)-black" alt="Medium" width="130" height="30"/>
-</a>&nbsp
-<a href="https://www.youtube.com/@harsha_kumavat/shorts" target="blank">
-<img src="https://img.shields.io/badge/Youtube-red" alt="Youtube" width="100" height="30"/>
-</a>
 </p>
 
 <br/>
